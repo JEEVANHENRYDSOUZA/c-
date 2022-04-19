@@ -5,7 +5,8 @@ int main() {
             //here int is the data type  
             //a is the variable that has the address to that memory allocated to it
             //it also takes the size of the data how much memory needs to be allocated to it
-    char sample='k';
+            //endl is for next line
+    char sample='k'; // char cannot be more than one character
     bool sample_2=true;
     float sample_3=10.3;
     double sample_4=11.12231;
