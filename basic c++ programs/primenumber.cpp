@@ -1,3 +1,5 @@
+//we can go for half input size as well but it will not effect the time complexity
+
 #include<iostream>
 using namespace std;
 
