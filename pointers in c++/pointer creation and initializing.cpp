@@ -5,6 +5,8 @@ void pointer(int * pointer){ //this is what we mean by when we do a call by refe
 
 
 }
+
+//* means value at the address pointed by variable
 int main(){
     cout <<"pointers"<<endl;
     int a=10;
