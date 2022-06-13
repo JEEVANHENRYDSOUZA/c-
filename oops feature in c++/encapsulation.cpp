@@ -39,7 +39,7 @@ int main(){
     //1.inheritance
     //2.polymorphism
     //3.encapsulation
-    //4.
+    //4.abstraction
 
 
 
